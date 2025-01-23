@@ -1,1 +1,2 @@
 echo from the command line >> README.md
+more README.md
